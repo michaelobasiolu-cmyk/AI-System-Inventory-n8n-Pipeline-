@@ -6,7 +6,8 @@ Built using **n8n, OpenAI (gpt-4o), and Notion.**
 
 ## 🏗️ Architecture Overview
 
-[Drag and drop your zoomed-out n8n canvas screenshot here]
+<img width="1536" height="552" alt="image" src="https://github.com/user-attachments/assets/0e79d57e-4897-4d7f-97e4-d0b5c9a531d1" />
+
 
 This pipeline bridges the gap between raw employee requests and structured database management:
 1. **Intake Trigger:** Captures requested AI tool, Use Case, and Data Types via a user-facing web form.
@@ -16,7 +17,10 @@ This pipeline bridges the gap between raw employee requests and structured datab
 
 ## 📊 The Resulting Database
 
-[Drag and drop your Notion database screenshot here]
+<img width="1613" height="532" alt="image" src="https://github.com/user-attachments/assets/7b3adc65-a109-462e-884d-f3e51f109adb" />
+<img width="1507" height="548" alt="image" src="https://github.com/user-attachments/assets/e8783eb3-0119-4e55-8555-a5038ad90c50" />
+
+
 
 ## 💡 Business Value
 * **Risk Mitigation:** Prevents employees from bypassing IT procurement by offering an instant, automated approval process.
