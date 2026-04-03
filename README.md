@@ -16,9 +16,8 @@ This pipeline bridges the gap between raw employee requests and structured datab
 4. **Database Injection:** Automatically routes the LLM's compliance verdict back to the precise Notion record.
 
 ## 📊 The Resulting Database
-
-<img width="1613" height="532" alt="image" src="https://github.com/user-attachments/assets/7b3adc65-a109-462e-884d-f3e51f109adb" />
-<img width="1507" height="548" alt="image" src="https://github.com/user-attachments/assets/e8783eb3-0119-4e55-8555-a5038ad90c50" />
+<img width="1597" height="290" alt="image" src="https://github.com/user-attachments/assets/ac0d46cf-e4e2-4310-8c7e-81d1a51484c7" />
+<img width="1432" height="330" alt="image" src="https://github.com/user-attachments/assets/0c5fe3dd-81c9-490e-9ca4-568d8a104113" />
 
 
 
